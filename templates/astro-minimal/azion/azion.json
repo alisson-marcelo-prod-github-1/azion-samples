@@ -1,0 +1,58 @@
+{
+  "name": "@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026",
+  "bucket": "-1715112325",
+  "preset": "astro",
+  "mode": "deliver",
+  "env": "production",
+  "prefix": "1715112319",
+  "not-first-run": true,
+  "function": {
+    "id": 22469,
+    "name": "__DEFAULT__",
+    "file": ".edge/worker.js",
+    "args": "./azion/args.json",
+    "instance-id": 22025,
+    "instance-name": "__DEFAULT__"
+  },
+  "application": {
+    "id": 1715112501,
+    "name": "__DEFAULT__"
+  },
+  "domain": {
+    "id": 1715111390,
+    "name": "__DEFAULT__"
+  },
+  "rt-purge": {
+    "purge_on_publish": true
+  },
+  "origin": [
+    {
+      "origin-id": 131010,
+      "origin-key": "367dc6ad-a7d0-442e-a5d8-499e5810c884",
+      "name": "@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026@\u0026_single"
+    },
+    {
+      "origin-id": 131011,
+      "origin-key": "4fd2f54c-9af4-4320-b3c7-97a71074d7cb",
+      "name": "origin-storage-default"
+    }
+  ],
+  "rules-engine": {
+    "created": false,
+    "rules": [
+      {
+        "id": 247120,
+        "name": "Main_Rule"
+      },
+      {
+        "id": 247121,
+        "name": "Index_Rewrite_1"
+      },
+      {
+        "id": 247122,
+        "name": "Index_Rewrite_2"
+      }
+    ]
+  },
+  "cache-settings": null
+}
